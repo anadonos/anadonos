@@ -22,7 +22,7 @@ I specialize in crafting strategy-driven digital experiences by blending design 
   <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/logo%20animation%20with%20script.gif alt=logo-animation-with-script width=250> <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/playful%20typography.gif alt=playful-typography width=250>
   <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/webflow%20website.gif alt=webflow-website width=250> <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/halloween%20campaign.gif alt=halloween-campaign width=250>
   <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Coca-Cola%20Animation.gif alt=coca-cola-animation width=250> <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Enchanted%20Plants%20Animation.gif alt=nft-plants width=250>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Let's%20Go.png alt=lets-go width=250> <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/ZN%20website.png alt=zn-website width=250>
+  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/ZN%20website.png alt=zn-website width=250>
 
 
 ### **Tools & Tech:**
@@ -38,5 +38,5 @@ Always exploring new tools and creative possibilities to push the boundaries of 
 
 - [Linkedin](https://www.linkedin.com/in/anamaria-donos/)
 - [Behance](https://www.behance.net/anadonos)
-- [Instagram] (https://www.instagram.com/anadonos/#)
-- [Youtube] (https://www.youtube.com/@PipikiAdventures) --not really a portfolio channel but if you're a dog lover, my vizsla will definetly bring a smile to your face 😉 🐾
+- [Instagram](https://www.instagram.com/anadonos/#)
+- [Youtube](https://www.youtube.com/@PipikiAdventures) --not really a portfolio channel but if you're a dog lover, my vizsla will definetly bring a smile to your face 😉 🐾
