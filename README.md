@@ -17,17 +17,11 @@ I specialize in crafting strategy-driven digital experiences by blending design 
 - **Motion Graphics** – Bringing stories to life through animation
 - **Web & UI Design** – Creating user-friendly, engaging digital interfaces
 - **Custom Illustartions** - Bringing a unique touch to each project
-
-<div style="display: flex; justify-content: space-around;">
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/character%20rigging.gif alt=character-rigging width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/bike%20on%20poster.gif alt=bike-on-poster width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/logo%20animation%20with%20script.gif alt=logo-animation-with-script width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/playful%20typography.gif alt=playful-typography width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/webflow%20website.gif alt=webflow-website width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/halloween%20campaign.gif alt=halloween-campaign width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Coca-Cola%20Animation.gif alt=coca-cola-animation width=250/>
-  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Enchanted%20Plants%20Animation.gif alt=nft-plants width=250/>
-</div>
+  
+  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/character%20rigging.gif alt=character-rigging width=250> | <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/bike%20on%20poster.gif alt=bike-on-poster width=250>
+  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/logo%20animation%20with%20script.gif alt=logo-animation-with-script width=250> | <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/playful%20typography.gif alt=playful-typography width=250>
+  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/webflow%20website.gif alt=webflow-website width=250> | <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/halloween%20campaign.gif alt=halloween-campaign width=250>
+  <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Coca-Cola%20Animation.gif alt=coca-cola-animation width=250> | <img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Enchanted%20Plants%20Animation.gif alt=nft-plants width=250>
 
 
 ### **Tools & Tech:**
@@ -44,4 +38,4 @@ Always exploring new tools and creative possibilities to push the boundaries of 
 - [Linkedin](https://www.linkedin.com/in/anamaria-donos/)
 - [Behance](https://www.behance.net/anadonos)
 
-<img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Let's%20Go.png alt=lets-go width=250>
+<img src=https://raw.githubusercontent.com/anadonos/anadonos/refs/heads/main/Images/Let's%20Go.png alt=letsgo width=250>
